@@ -1,6 +1,6 @@
 <h1 align="center">Rusty Guessing Game</h1>
 
-<p align="center">First project built with rust</p>
+<p align="center">First project built with rust, a simple guessing game with inputs, outputs and using a library</p>
 
 ## Links
 
